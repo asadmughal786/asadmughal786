@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am passionate about Python. This README provides
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadmughal786&layout=compact&theme=dark)](https://github.com/asadmughal786)
 
 
-### Open Source Contributions
+## Skills
 
 <!-- Add style to horizontally display badges -->
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am passionate about Python. This README provides
 
 </div>
 
-### Testing
+## Testing
 
 <!-- Add style to horizontally display badges -->
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I am passionate about Python. This README provides
 
 </div>
 
-### Web Frameworks
+## Web Frameworks
 
 <!-- Add style to horizontally display badges -->
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
