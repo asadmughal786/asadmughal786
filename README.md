@@ -1,8 +1,12 @@
-# Asad Mughal's GitHub Profile
 
-## Overview
+<div style= "text-align: center;">
+<h1>Asad Mughal's GitHub Profile</h1>
+</div>
 
-Welcome to my GitHub profile! I am passionate about Python. This README provides an overview of my contributions, projects, and stats.
+<div style="text-align: center;">
+  <h2>Overview</h2>
+  <p>Welcome to my GitHub profile! I am passionate about [mention your interests, e.g., software development, data science, etc.]. This README provides an overview of my contributions, projects, achievements, and stats.</p>
+</div>
 
 ## 📊 GitHub Stats
 
