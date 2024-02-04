@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am passionate about, Python Website Development,
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadmughal786&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadmughal786e&layout=compact&theme=dark)](https://github.com/asadmughal786)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadmughal786&layout=compact&theme=dark)](https://github.com/asadmughal786)
 
 
 ### 🌐 Connect with Me
