@@ -1,77 +1,76 @@
-# Asad Mughal's GitHub Profile
+# [Your Name]'s GitHub Profile
 
 ## Overview
 
-Welcome to my GitHub profile! I am passionate about, Python Website Development, Software Development. This README provides an overview of my contributions, projects, and stats.
+Welcome to my GitHub profile! I am passionate about [mention your interests, e.g., software development, data science, etc.]. This README provides an overview of my contributions, projects, and stats.
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadmughal786&show_icons=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=your-username&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadmughal786&layout=compact&theme=dark)](https://github.com/asadmughal786)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/your-username)
 
+## 💼 Contributions
 
-### 🌐 Connect with Me
+### Open Source Contributions
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/muhammad-asad-python-developer)
+<!-- Add style to horizontally display badges -->
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
-### 🚀 Skills
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Python-Description-informational?logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-Summary-informational?logo=django" alt="Django" />
+  <img src="https://img.shields.io/badge/Django%20Rest%20Framework-Overview-informational?logo=drf" alt="Django Rest Framework" />
+  <img src="https://img.shields.io/badge/Odoo-Description-informational?logo=odoo" alt="Odoo" />
+  <img src="https://img.shields.io/badge/HTML-Overview-informational?logo=html5" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-Overview-informational?logo=css3" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-Overview-informational?logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-Overview-informational?logo=sql" alt="SQL" />
+  <img src="https://img.shields.io/badge/Selenium%20WebDriver-Description-informational?logo=selenium" alt="Selenium WebDriver" />
+  <img src="images/xml-logo.png" alt="XML" /> <!-- Replace with the actual path to your XML logo image -->
+  <img src="images/postgresql-logo.png" alt="PostgreSQL" /> <!-- Replace with the actual path to your PostgreSQL logo image -->
 
-- ![Python](https://img.shields.io/badge/Python-Description-informational?logo=python)
-- ![Django](https://img.shields.io/badge/Django-Summary-informational?logo=django)
-- ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-Overview-informational?logo=drf)
-- ![Odoo](https://img.shields.io/badge/Odoo-Description-informational?logo=odoo)
-- ![HTML](https://img.shields.io/badge/HTML-Overview-informational?logo=html5)
-- ![CSS](https://img.shields.io/badge/CSS-Overview-informational?logo=css3)
-- ![SQL](https://img.shields.io/badge/SQL-Overview-informational?logo=sql)
-- ![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-Description-informational?logo=selenium)
+</div>
+
+### Testing
+
+<!-- Add style to horizontally display badges -->
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Pytest-Description-informational?logo=pytest" alt="Pytest" />
+
+</div>
 
 ### Web Frameworks
 
-- ![FastAPI](https://img.shields.io/badge/FastAPI-Description-informational?logo=fastapi)
-- ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-Description-informational?logo=drf)
+<!-- Add style to horizontally display badges -->
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/FastAPI-Description-informational?logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django%20Rest%20Framework-Description-informational?logo=drf" alt="Django Rest Framework" />
+
+</div>
 
 ## 🚀 Deployment
 
-- ![AWS](https://img.shields.io/badge/AWS-Deployed-informational?logo=amazon-aws)
-- ![Heroku](https://img.shields.io/badge/Heroku-Deployed-informational?logo=heroku)
-- ![Jenkins](https://img.shields.io/badge/Jenkins-Deployed-informational?logo=jenkins)
-- ![GitHub](https://img.shields.io/badge/GitHub-Deployed-informational?logo=github)
-- ![GitLab](https://img.shields.io/badge/GitLab-Deployed-informational?logo=gitlab)
+<!-- Add style to horizontally display badges -->
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
-## 📚 Education
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/AWS-Deployed-informational?logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Heroku-Deployed-informational?logo=heroku" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Jenkins-Deployed-informational?logo=jenkins" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub-Deployed-informational?logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-Deployed-informational?logo=gitlab" alt="GitLab" />
 
-- **Bachelor of Software Engineering**
-  - *Degree Earned:* Bachelor of Software Engineering
-  - *University:* University of Management and Technology, Lahore
-  - *Year:* 2023
+</div>
 
-## 👨‍💻 Work Experience
+## 🌐 Connect with Me
 
-- **Python Developer**
-  - *Company:* Viltco Technologies
-  - *Location:* Arfa Tower, Lahore, Pakistan.
-  - *Duration:* April 2023 - Present
-  - *Description:* As a Python consultant my responsibility is to customize the Odoo ERP/CRM solutions platform according to the requirements while remaining within the Odoo scope.
-      - Customization of Existing modules.
-      - Developing new custom Modules
-      - Writing Python Functions to get the required solution..
+<!-- Add style to horizontally display badges -->
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
-- **Python Developer**
-  - *Company:* Techtiz
-  - *Location:* 585 Block H3 Johar Town Lahore. Lahore, Punjab 54000, Pakistan.
-  - *Duration:* June 2020 - April 2021
-  - *Description:* Brief description of your role and responsibilities.
-
-## 📬 Contact
-
-Feel free to reach out to me via email at muhammadasadwork28@gmail.com (mailto:muhammadasadwork28@gmail.com) or through any of the social links provided above.
-
-## 🙏 Acknowledgments
-
-I would like to express my gratitude to the open-source community and everyone who has contributed to my projects.
-
----
-
-Thank you for visiting my GitHub profile! If you have any questions or collaboration ideas, don't hesitate to reach out. Happy coding!
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/LinkedIn-Connect
