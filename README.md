@@ -1,14 +1,14 @@
-# [Your Name]'s GitHub Profile
+# Asad Mughal's GitHub Profile
 
 ## Overview
 
-Welcome to my GitHub profile! I am passionate about [mention your interests, e.g., software development, data science, etc.]. This README provides an overview of my contributions, projects, and stats.
+Welcome to my GitHub profile! I am passionate about Python. This README provides an overview of my contributions, projects, and stats.
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=your-username&show_icons=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=asadmughal786&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadmughal786&layout=compact&theme=dark)](https://github.com/asadmughal786)
 
 ## 💼 Contributions
 
@@ -26,9 +26,7 @@ Welcome to my GitHub profile! I am passionate about [mention your interests, e.g
   <img src="https://img.shields.io/badge/CSS-Overview-informational?logo=css3" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-Overview-informational?logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-Overview-informational?logo=sql" alt="SQL" />
-  <img src="https://img.shields.io/badge/Selenium%20WebDriver-Description-informational?logo=selenium" alt="Selenium WebDriver" />
-  <img src="images/xml-logo.png" alt="XML" /> <!-- Replace with the actual path to your XML logo image -->
-  <img src="images/postgresql-logo.png" alt="PostgreSQL" /> <!-- Replace with the actual path to your PostgreSQL logo image -->
+  
 
 </div>
 
@@ -38,6 +36,7 @@ Welcome to my GitHub profile! I am passionate about [mention your interests, e.g
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
   <!-- Badges -->
+  <img src="https://img.shields.io/badge/Selenium%20WebDriver-Description-informational?logo=selenium" alt="Selenium WebDriver" />
   <img src="https://img.shields.io/badge/Pytest-Description-informational?logo=pytest" alt="Pytest" />
 
 </div>
@@ -73,4 +72,6 @@ Welcome to my GitHub profile! I am passionate about [mention your interests, e.g
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
   <!-- Badges -->
-  <img src="https://img.shields.io/badge/LinkedIn-Connect
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" href="www.linkedin.com/in/muhammad-asad-python-developer" alt="LinkedIn" />
+
+</div>
