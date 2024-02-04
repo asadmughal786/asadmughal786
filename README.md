@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I am passionate about Python. This README provides
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadmughal786&layout=compact&theme=dark)](https://github.com/asadmughal786)
 
-## 💼 Contributions
 
 ### Open Source Contributions
 
