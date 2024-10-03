@@ -1,6 +1,6 @@
 
 <div style= "text-align: center;">
-<h1>Asad Mughal's GitHub Profile</h1>
+<h1>Muhammad Asad GitHub Profile</h1>
 </div>
 
 <div style="text-align: center;">
