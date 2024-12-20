@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=asadmughal786&show_icons=true&theme=dark)
+![Muhammad Asad GitHub Stats](https://github-readme-stats.vercel.app/api/?username=asadmughal786&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadmughal786&layout=compact&theme=dark)](https://github.com/asadmughal786)
 
@@ -68,6 +68,9 @@
   <img src="https://img.shields.io/badge/GitLab-Deployed-informational?logo=gitlab" alt="GitLab" />
 
 </div>
+## :desktop_computer: GitHub Contributions
+<br clear="both">
+<img src="https://raw.githubusercontent.com/ABRJrocks/ABRJrocks/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Connect with Me
 
