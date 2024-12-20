@@ -74,10 +74,4 @@
 
 ## 🌐 Connect with Me
 
-<!-- Add style to horizontally display badges -->
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" href="https://www.linkedin.com/in/muhammad-asad-python-developer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn" />
-
-</div>
+## [My Linkedin](https://www.linkedin.com/in/muhammad-asad-python-developer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
